@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+
+.bar{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
+
+
+tbody td  {
+  border: 1px solid black;
+  padding: 8px 0px;
+  font-size: 14px !important;
+}
+thead th {
+  border: 1px solid black;
+  padding: 8px 0px;
+  
+  font-size: 16px !important;
+
+  
+}
+
